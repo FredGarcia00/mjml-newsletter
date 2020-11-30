@@ -1,0 +1,33 @@
+.slider {
+    display: flex;
+    position: relative;
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+.slider__item {
+    height: 100vh;
+    z-index: 1;
+    margin-bottom: -350px;
+    transition: .3s ;
+    object-fit: contain;
+}
+
+
+#slider__leftArrow {
+    position: absolute;
+    top: 35%;
+    left: 0;
+    transform: translate(40px,0);
+    cursor: pointer;
+    z-index: 1;
+}
+
+#slider__rightArrow {
+    position: absolute;
+    top: 35%;
+    right: 0;
+    transform: translate(-40px,0);
+    cursor: pointer;
+    z-index: 1;
+}
