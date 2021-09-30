@@ -1,0 +1,19 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column border-bottom=".5px solid #000" border-top=".5px solid #000" border-left=".5px solid #000">
+        <mj-image width="300px" src="https://ci3.googleusercontent.com/proxy/Y_TmiWKnWjihICB2fwrIhItA0WV3fQmJDEGx-c4gtGGKPvwGKGmqBFJTBkmaAqnZnGT_lTEWGjIv_lnLV6d_XxE7l-kCqG7f2SjL73eRaQ=s0-d-ft-nd#https://tpc.googlesyndication.com/simgad/5897126012318397726" height="160px" border-radius="4px"></mj-image>
+      </mj-column>
+      <mj-column  border-bottom=".5px solid #000"  border-top=".5px solid #000" border-right=".5px solid #000">
+        <mj-text font-size="20px" font-family="helvetica">Never make minimum wage ever again</mj-text>
+
+        <mj-text font-size="15px" font-family="helvetica">Learn the 3 stack that companies actually want, not just one. Get a free course packet</mj-text>
+        <mj-button background-color="#1a73e8" width="100%">
+          Visit Site</mj-button>
+      </mj-column>
+
+
+
+    </mj-section>
+  </mj-body>
+</mjml>
